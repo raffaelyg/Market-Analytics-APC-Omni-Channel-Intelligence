@@ -28,6 +28,12 @@ This repository serves as a masterclass in navigating this "New Normal." By synt
 | **The Trailblazers** | Identified **Gen-Z** and **Young Mothers** as the demographic leaders—cohorts with the highest "Say-Do" gap who prioritise immediate efficacy. |
 | **The "Hero" Formats** | Determined that **Liquidised Formats** (Essences) and **Functional Repair** are the primary triggers for high-frequency purchase loops in this channel. |
 
+| No. | Slide |
+| :---: | :--- |
+| 01 | ![Slide1](/images/Slide1.png) |
+| 02 | ![Slide2](/images/Slide2.png) |
+| 03 | ![Slide3](/images/Slide3.png) |
+
 ---
 
 ## 🏬 Pillar 2: MBS Resilience — City-Tier Demographic Activation
@@ -41,12 +47,25 @@ This repository serves as a masterclass in navigating this "New Normal." By synt
 | **Segmented Opportunity** | Isolated the functional white spaces currently underserved by traditional "Counter" service models. |
 | **Geographic Activation** | Identified **Tier 3-5 Cities** as the core growth engine, providing a field guide for activating younger, price-conscious "Skintellectuals" in these regions. |
 
+| No. | Slide |
+| :---: | :--- |
+| 01 | ![Slide4](/images/Slide4.png) |
+| 02 | ![Slide5](/images/Slide5.png) |
+| 03 | ![Slide6](/images/Slide6.png) |
+| 04 | ![Slide7](/images/Slide7.png) |
+| 05 | ![Slide8](/images/Slide8.png) |
+
 ---
 
 ## 📉 Pillar 3: Price Tier Duplication — Navigating the "Premium Sandwich"
 **The Client Problem:** "Our Premium-tier sales are stagnant. Are we losing buyers to Luxury or Mass?"
 
 **The Value:** We used **Venn Diagram Duplication Analysis** to expose the myth of "Brand Loyalty" in a fragmented market. We moved clients away from defensive strategies toward a "Portfolio Combination" approach.
+
+| No. | Slide |
+| :---: | :--- |
+| 01 | ![Slide9](/images/Slide9.png) |
+| 02 | ![Slide10](/images/Slide10.png) |
 
 * **The Macro Shift:** Visualised the buyer choices shifting away from the "Mainstream Middle" toward the Ultra-Luxury (Status) and Masstige (Value-Efficacy) extremes.
 * **The Niche Deep-Dive:** Identified the **Luxury + Masstige "Mix-and-Match"** habit as the most resilient consumer profile—shoppers who "hire" luxury for hero steps and mass for routine maintenance.
