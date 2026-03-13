@@ -77,7 +77,7 @@ This repository serves as a masterclass in navigating this "New Normal." By synt
 The success of this project was rooted in its **Agile Project Management**. 
 * **The Discovery Phase:** Reframing ambiguous "How's the market?" briefs into "Where is the friction?" diagnostics.
 * **Meaningful Visualisation:** Every Venn diagram and Growth Matrix was designed to reduce the "Cognitive Load" for executives, turning complex cross-tier interactions into simple "Go/No-Go" decisions.
-* **The Cambridge Connection:** Integrating unsupervised learning and PCA (Principal Component Analysis) to ensure that even ad hoc studies were grounded in the highest level of mathematical rigour.
+* **Effective Storytelling:** To create a meaningful analysis and create a mini persuasive story can be as short as one pages, and often requires 2, but mostly all ideas and stories can be encapsulated into 3 pages of slides.
 
 ---
 
