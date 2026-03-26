@@ -1,51 +1,66 @@
-# APC Strategic Intelligence: Macro-Shifts & Tactical Activation
-### A Multi-Pillar Diagnostic for the Asian Personal Care Sector
 
-![Period](https://img.shields.io/badge/Periods-2023-blue)
-![Topics](https://img.shields.io/badge/Topics-Ad_Hoc_Research_|_Deep_Dives-success)
-![Client](https://img.shields.io/badge/Client-China_Skincare_|_APC-orange)
 
----
 
-## 📑 Executive Summary: The Strategic North Star
-The 2023-2024 recovery of the Asian Personal Care (APC) market was not a "rising tide" that lifted all boats; it was a period of extreme **Polarisation and Fragmentation**. Traditional e-commerce giants (JD/Tmall) faced stagnation while **Interest Commerce (DY/KS)** reached a critical mass, with penetration jumping from 32.3% to **47.9%**. 
 
-This repository serves as a masterclass in navigating this "New Normal." By synthesising three tactical pillars, we move from general market awareness to precise operational certainty:
-1. **Quantifying Growth:** Moving media spend to where the "Shopper Base" actually is.
-2. **Tactical Offline Activation:** Identifying the specific city-tier demographics that drive Multi-Brand Store (MBS) momentum.
-3. **Portfolio Resilience:** Solving the "Premium Sandwich" by identifying niche cross-tier shopping combinations.
+
+
+# Omni-Channel Intelligence: Macro-Shifts & Tactical Activation in Prestige Beauty
+### A Multi-Pillar Strategic Diagnostic for a Leading APAC Skincare Conglomerate
+
+![Period](https://img.shields.io/badge/Period-2023-blue)
+![Type](https://img.shields.io/badge/Type-Ad_Hoc_Research_|_Deep_Dives-success)
+![Sector](https://img.shields.io/badge/Sector-Prestige_Beauty_|_APAC-orange)
 
 ---
 
-## 🚀 Pillar 1: Interest Commerce (DY/KS) — The New Growth Engine
-**The Client Problem:** "Is Douyin just a discount channel, or is it a sustainable source of market growth?"
+## The Challenge
 
-**The Value:** We proved that DY/KS is the primary driver of market size expansion, not just share-stealing. By identifying the **"Who"** and the **"With What,"** we gave clients the roadmap for content-led recruitment.
+A multinational prestige skincare conglomerate needed to understand how the post-pandemic recovery was reshaping the competitive landscape in one of the world's largest beauty markets. The recovery was not a rising tide — it was a period of extreme polarisation and channel fragmentation. Traditional e-commerce platforms were stagnating while a new class of content-driven "Interest Commerce" channels had reached critical mass, fundamentally changing how consumers discovered and purchased beauty products.
 
-| Dimension | Insight for Action |
-| :--- | :--- |
-| **The Momentum** | Showcased the extreme divergence in growth rates, proving DY/KS as the only channel with consistent double-digit recruitment. |
-| **The Trailblazers** | Identified **Gen-Z** and **Young Mothers** as the demographic leaders—cohorts with the highest "Say-Do" gap who prioritise immediate efficacy. |
-| **The "Hero" Formats** | Determined that **Liquidised Formats** (Essences) and **Functional Repair** are the primary triggers for high-frequency purchase loops in this channel. |
+The client's brief was vague: *"How's the market?"* My job was to reframe that into something actionable: *"Where is the friction, and where is the growth?"*
+
+---
+
+## My Role
+
+I was the lead analyst on this engagement, responsible for:
+- Reframing the ambiguous client brief into a structured diagnostic framework
+- Designing the analytical approach across three interconnected research pillars
+- Integrating purchase panel data with channel-level and demographic data to build a single coherent market narrative
+- Producing and presenting the final strategic deliverables to the client's senior commercial leadership
+
+---
+
+## Analytical Framework: Three Pillars
+
+### Pillar 1 — Channel Migration & the New Growth Engine
+
+**The question:** Is the emerging content commerce channel a sustainable source of market growth, or just a discount-driven share-stealer?
+
+**How I approached it:** I built a channel migration analysis tracking buyer inflow and outflow across traditional and emerging e-commerce platforms. By cross-referencing channel-level penetration trends with demographic cohort data, I isolated which consumer segments were driving the shift — and whether their purchasing behaviour indicated genuine recruitment or temporary trial.
+
+**What this demonstrated:**
+- Growth attribution modelling to separate channel cannibalisation from true market expansion
+- Demographic cohort analysis identifying the specific consumer profiles leading the migration
+- Category-level diagnosis of which product formats were acting as entry points in the new channel
 
 | No. | Slide |
 | :---: | :--- |
 | 01 | ![Slide1](/images/Slide1.png) |
 | 02 | ![Slide2](/images/Slide2.png) |
 | 03 | ![Slide3](/images/Slide3.png) |
-
 ---
 
-## 🏬 Pillar 2: MBS Resilience — City-Tier Demographic Activation
-**The Client Problem:** "Where should we expand our physical footprint to avoid the department store decline?"
+### Pillar 2 — Offline Resilience: City-Tier Demographic Activation
 
-**The Value:** This analysis transitioned MBS from a passive retail endpoint to a strategic recruitment engine. By cross-referencing category momentum with **City-Tier demographics**, we pinpointed exactly where the "Offline Potential" lies.
+**The question:** Where should the client invest in physical retail to avoid the declining department store model?
 
-| Analysis Component | Tactical Outcome |
-| :--- | :--- |
-| **Momentum Matrix** | Classified MBS potential by category, highlighting **Sun Care** and **Essence Water** as the key entry points for offline shoppers. |
-| **Segmented Opportunity** | Isolated the functional white spaces currently underserved by traditional "Counter" service models. |
-| **Geographic Activation** | Identified **Tier 3-5 Cities** as the core growth engine, providing a field guide for activating younger, price-conscious "Skintellectuals" in these regions. |
+**How I approached it:** I designed a momentum matrix cross-referencing category growth rates with city-tier demographic profiles. This moved the offline strategy from a passive "where do we have stores" approach to a precision-targeted "where are the underserved shoppers" activation plan.
+
+**What this demonstrated:**
+- Geographic segmentation beyond standard tier classifications
+- Category-by-channel opportunity mapping to identify functional white spaces
+- Field-level activation recommendations grounded in quantitative evidence, not intuition
 
 | No. | Slide |
 | :---: | :--- |
@@ -57,34 +72,56 @@ This repository serves as a masterclass in navigating this "New Normal." By synt
 
 ---
 
-## 📉 Pillar 3: Price Tier Duplication — Navigating the "Premium Sandwich"
-**The Client Problem:** "Our Premium-tier sales are stagnant. Are we losing buyers to Luxury or Mass?"
+### Pillar 3 — Price Tier Duplication: Navigating the "Premium Sandwich"
 
-**The Value:** We used **Venn Diagram Duplication Analysis** to expose the myth of "Brand Loyalty" in a fragmented market. We moved clients away from defensive strategies toward a "Portfolio Combination" approach.
+**The question:** Premium-tier sales are stagnant — are we losing buyers upward to luxury or downward to mass?
+
+**How I approached it:** I used Venn diagram duplication analysis on purchase panel data to map cross-tier shopping combinations at the individual buyer level. This exposed the myth of single-tier brand loyalty and revealed the actual combinations consumers were assembling in their routines.
+
+**What this demonstrated:**
+- Buyer-level duplication analysis across price tiers — a technique I applied extensively at Kantar to reveal hidden competitive dynamics
+- Identification of the most resilient consumer profile based on actual purchase combinations, not stated preferences
+- Strategic reframing from defensive "protect our tier" thinking to offensive "own the combination" portfolio strategy
 
 | No. | Slide |
 | :---: | :--- |
 | 01 | ![Slide9](/images/Slide9.png) |
 | 02 | ![Slide10](/images/Slide10.png) |
 
-* **The Macro Shift:** Visualised the buyer choices shifting away from the "Mainstream Middle" toward the Ultra-Luxury (Status) and Masstige (Value-Efficacy) extremes.
-* **The Niche Deep-Dive:** Identified the **Luxury + Masstige "Mix-and-Match"** habit as the most resilient consumer profile—shoppers who "hire" luxury for hero steps and mass for routine maintenance.
-* **Future Opportunity:** Pinpointed the **"Premium-Functional"** niche as the critical threshold where brands can escape the "sandwich" by offering clinical results without the luxury price friction.
 
 ---
 
-## 🧠 Strategic Takeaway: From Briefing to Impact
-The success of this project was rooted in its **Agile Project Management**. 
-* **The Discovery Phase:** Reframing ambiguous "How's the market?" briefs into "Where is the friction?" diagnostics.
-* **Meaningful Visualisation:** Every Venn diagram and Growth Matrix was designed to reduce the "Cognitive Load" for executives, turning complex cross-tier interactions into simple "Go/No-Go" decisions.
-* **Effective Storytelling:** To create a meaningful analysis and create a mini persuasive story can be as short as one pages, and often requires 2, but mostly all ideas and stories can be encapsulated into 3 pages of slides.
+## Methodology & Tools
+
+| Component | Detail |
+| :--- | :--- |
+| **Data Source** | Kantar Worldpanel continuous household purchase panel |
+| **Scope** | National urban sample, multi-tier city coverage |
+| **Analytical Techniques** | Growth attribution, channel migration analysis, buyer outflow modelling, cross-tier duplication (Venn), cohort segmentation, momentum matrix |
+| **Tools** | Excel (advanced), PowerPoint, Kantar PowerView (proprietary database) |
+| **Deliverable** | Executive-ready strategic presentation to senior commercial leadership |
 
 ---
 
-## 📫 Contact & Portfolio
-* **Strategic Project Lead:** Raffael (Yuliang) Gao
-* **Location:** Toronto, ON, Canada 🇨🇦
-* **Portfolio:** [raffaelyg.notion.site/portfolio](https://raffaelyg.notion.site/portfolio)
-* **LinkedIn:** [Insert Link]
+## What Made This Project Effective
+
+1. **Reframing the brief.** The client didn't ask for a three-pillar diagnostic — they asked "how's the market." The value I added was turning an ambiguous question into three precise, interconnected analyses that told a single coherent story.
+
+2. **Meaningful visualisation.** Every chart was designed to reduce cognitive load for executives. Venn diagrams and growth matrices turned complex cross-tier interactions into simple go/no-go decisions. My principle: if an insight cannot fit on one page, it is not yet clear enough.
+
+3. **Connecting the pillars.** Each pillar answered a different question, but together they formed a complete strategic picture — where the growth is coming from (Pillar 1), where to activate physically (Pillar 2), and how to position the portfolio (Pillar 3). That interconnection is what turned three reports into one strategy.
 
 ---
+
+## Confidentiality
+
+This project was completed as part of a strategic consulting engagement. All client names, proprietary data, brand-specific figures, and commercially sensitive findings have been anonymised. The focus of this case study is on analytical methodology, strategic frameworks, and the thinking process behind the work.
+
+---
+
+## Contact
+
+**Analyst:** Raffael (Yuliang) Gao
+**Location:** Toronto, ON, Canada
+**GitHub:** [github.com/raffaelyg](https://github.com/raffaelyg)
+**LinkedIn:** [linkedin.com/in/raffaelyg](https://linkedin.com/in/raffaelyg)
