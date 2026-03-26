@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Omni-Channel Intelligence: Macro-Shifts & Tactical Activation in Prestige Beauty
 ### A Multi-Pillar Strategic Diagnostic for a Leading APAC Skincare Conglomerate
 
@@ -44,11 +38,6 @@ I was the lead analyst on this engagement, responsible for:
 - Demographic cohort analysis identifying the specific consumer profiles leading the migration
 - Category-level diagnosis of which product formats were acting as entry points in the new channel
 
-| No. | Slide |
-| :---: | :--- |
-| 01 | ![Slide1](/images/Slide1.png) |
-| 02 | ![Slide2](/images/Slide2.png) |
-| 03 | ![Slide3](/images/Slide3.png) |
 ---
 
 ### Pillar 2 — Offline Resilience: City-Tier Demographic Activation
@@ -62,14 +51,6 @@ I was the lead analyst on this engagement, responsible for:
 - Category-by-channel opportunity mapping to identify functional white spaces
 - Field-level activation recommendations grounded in quantitative evidence, not intuition
 
-| No. | Slide |
-| :---: | :--- |
-| 01 | ![Slide4](/images/Slide4.png) |
-| 02 | ![Slide5](/images/Slide5.png) |
-| 03 | ![Slide6](/images/Slide6.png) |
-| 04 | ![Slide7](/images/Slide7.png) |
-| 05 | ![Slide8](/images/Slide8.png) |
-
 ---
 
 ### Pillar 3 — Price Tier Duplication: Navigating the "Premium Sandwich"
@@ -82,12 +63,6 @@ I was the lead analyst on this engagement, responsible for:
 - Buyer-level duplication analysis across price tiers — a technique I applied extensively at Kantar to reveal hidden competitive dynamics
 - Identification of the most resilient consumer profile based on actual purchase combinations, not stated preferences
 - Strategic reframing from defensive "protect our tier" thinking to offensive "own the combination" portfolio strategy
-
-| No. | Slide |
-| :---: | :--- |
-| 01 | ![Slide9](/images/Slide9.png) |
-| 02 | ![Slide10](/images/Slide10.png) |
-
 
 ---
 
